@@ -1,0 +1,7 @@
+*
+!dist/**
+!bin/**
+!package.json
+!package-lock.json
+!README.md
+!LICENSE
